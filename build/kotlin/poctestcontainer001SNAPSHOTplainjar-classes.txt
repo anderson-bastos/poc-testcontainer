@@ -1,1 +1,0 @@
-/Users/bastos/Workspace/poc-testcontainer/build/classes/kotlin/main/org/testcontainers/localStackmodule/PocTestContainerApplication.class:/Users/bastos/Workspace/poc-testcontainer/build/classes/kotlin/main/org/testcontainers/localStackmodule/PocTestContainerApplicationKt.class
